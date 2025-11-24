@@ -5,7 +5,8 @@
 
 #EXTINF:-1 tvg-id="ANTV.id" tvg-logo="https://images.indihometv.com/images/channels/image_ch_antv.png" group-title="Indonesia",ANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
-https://op-group1-swiftservehd-1.dens.tv/s/s07/index.m3u8
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
+https://fta1-cdn-flr.visionplus.id/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
 
 #EXTINF:-1 tvg-name="INDOSIAR" tvg-logo="https://images.indihometv.com/images/channels/image_ch_indosiar.png" group-title="NATIONAL",INDOSIAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
